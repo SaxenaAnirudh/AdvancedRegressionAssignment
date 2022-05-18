@@ -20,7 +20,7 @@ You are required to model the price of houses with the available independent var
 ## The ZIP file contains the Jupyter notebook for coding and Pdf for subjective question.
 
 ## Technologies Used
-- python version 3
+- python version3
 
 ## Contact
 Created by [@SaxenaAnirudh] - feel free to contact me!
